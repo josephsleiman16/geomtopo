@@ -1,0 +1,305 @@
+,Knot Type,Replica #,Colocalisation Fraction,Component,Representation
+0,$2_1^2$,0,0.1335,Chain 1,Random Probability
+9,$2_1^2$,1,0.1147,Chain 1,Random Probability
+18,$2_1^2$,2,0.1118,Chain 1,Random Probability
+27,$2_1^2$,3,0.1904,Chain 1,Random Probability
+36,$2_1^2$,4,0.2011,Chain 1,Random Probability
+45,$2_1^2$,5,0.1492,Chain 1,Random Probability
+54,$2_1^2$,6,0.1839,Chain 1,Random Probability
+63,$2_1^2$,7,0.1243,Chain 1,Random Probability
+72,$2_1^2$,8,0.1475,Chain 1,Random Probability
+81,$2_1^2$,9,0.1316,Chain 1,Random Probability
+90,$2_1^2$,10,0.1579,Chain 1,Random Probability
+99,$2_1^2$,11,0.1242,Chain 1,Random Probability
+108,$2_1^2$,12,0.1579,Chain 1,Random Probability
+117,$2_1^2$,13,0.1469,Chain 1,Random Probability
+126,$2_1^2$,14,0.1576,Chain 1,Random Probability
+135,$2_1^2$,15,0.1564,Chain 1,Random Probability
+144,$2_1^2$,16,0.1454,Chain 1,Random Probability
+153,$2_1^2$,17,0.1919,Chain 1,Random Probability
+162,$2_1^2$,18,0.1947,Chain 1,Random Probability
+171,$2_1^2$,19,0.1846,Chain 1,Random Probability
+180,$2_1^2$,20,0.1062,Chain 1,Random Probability
+189,$2_1^2$,21,0.1477,Chain 1,Random Probability
+198,$2_1^2$,22,0.1875,Chain 1,Random Probability
+207,$2_1^2$,23,0.1591,Chain 1,Random Probability
+216,$2_1^2$,24,0.1026,Chain 1,Random Probability
+225,$2_1^2$,25,0.2349,Chain 1,Random Probability
+234,$2_1^2$,26,0.1563,Chain 1,Random Probability
+243,$2_1^2$,27,0.2204,Chain 1,Random Probability
+252,$2_1^2$,28,0.1393,Chain 1,Random Probability
+261,$2_1^2$,29,0.166,Chain 1,Random Probability
+270,$2_1^2$,30,0.0994,Chain 1,Random Probability
+279,$2_1^2$,31,0.1727,Chain 1,Random Probability
+
+
+1,$2_1^2$,0,0.19186,Chain 2,Random Probability
+10,$2_1^2$,1,0.19074,Chain 2,Random Probability
+19,$2_1^2$,2,0.12616,Chain 2,Random Probability
+28,$2_1^2$,3,0.1974,Chain 2,Random Probability
+37,$2_1^2$,4,0.22878,Chain 2,Random Probability
+46,$2_1^2$,5,0.20272,Chain 2,Random Probability
+55,$2_1^2$,6,0.20458,Chain 2,Random Probability
+64,$2_1^2$,7,0.20002,Chain 2,Random Probability
+73,$2_1^2$,8,0.22606,Chain 2,Random Probability
+82,$2_1^2$,9,0.23376,Chain 2,Random Probability
+91,$2_1^2$,10,0.1939,Chain 2,Random Probability
+100,$2_1^2$,11,0.17704,Chain 2,Random Probability
+109,$2_1^2$,12,0.27638,Chain 2,Random Probability
+118,$2_1^2$,13,0.15714,Chain 2,Random Probability
+127,$2_1^2$,14,0.21032,Chain 2,Random Probability
+136,$2_1^2$,15,0.2436,Chain 2,Random Probability
+145,$2_1^2$,16,0.18616,Chain 2,Random Probability
+154,$2_1^2$,17,0.18806,Chain 2,Random Probability
+163,$2_1^2$,18,0.21866,Chain 2,Random Probability
+172,$2_1^2$,19,0.22444,Chain 2,Random Probability
+181,$2_1^2$,20,0.21692,Chain 2,Random Probability
+190,$2_1^2$,21,0.21438,Chain 2,Random Probability
+199,$2_1^2$,22,0.20198,Chain 2,Random Probability
+208,$2_1^2$,23,0.26754,Chain 2,Random Probability
+217,$2_1^2$,24,0.11084,Chain 2,Random Probability
+226,$2_1^2$,25,0.21422,Chain 2,Random Probability
+235,$2_1^2$,26,0.22642,Chain 2,Random Probability
+244,$2_1^2$,27,0.338,Chain 2,Random Probability
+253,$2_1^2$,28,0.13998,Chain 2,Random Probability
+262,$2_1^2$,29,0.18596,Chain 2,Random Probability
+271,$2_1^2$,30,0.14992,Chain 2,Random Probability
+280,$2_1^2$,31,0.25246,Chain 2,Random Probability
+
+
+2,$2_1^2$,0,0.02561331,Link,Random Probability
+11,$2_1^2$,1,0.021877878,Link,Random Probability
+20,$2_1^2$,2,0.014104688,Link,Random Probability
+29,$2_1^2$,3,0.03758496,Link,Random Probability
+38,$2_1^2$,4,0.046007658,Link,Random Probability
+47,$2_1^2$,5,0.030245824,Link,Random Probability
+56,$2_1^2$,6,0.037622262,Link,Random Probability
+65,$2_1^2$,7,0.024862486,Link,Random Probability
+74,$2_1^2$,8,0.03334385,Link,Random Probability
+83,$2_1^2$,9,0.030762816,Link,Random Probability
+92,$2_1^2$,10,0.03061681,Link,Random Probability
+101,$2_1^2$,11,0.021988368,Link,Random Probability
+110,$2_1^2$,12,0.043640402,Link,Random Probability
+119,$2_1^2$,13,0.023083866,Link,Random Probability
+128,$2_1^2$,14,0.033146432,Link,Random Probability
+137,$2_1^2$,15,0.03809904,Link,Random Probability
+146,$2_1^2$,16,0.027067664,Link,Random Probability
+155,$2_1^2$,17,0.036088714,Link,Random Probability
+164,$2_1^2$,18,0.042573102,Link,Random Probability
+173,$2_1^2$,19,0.041431624,Link,Random Probability
+182,$2_1^2$,20,0.023036904,Link,Random Probability
+191,$2_1^2$,21,0.031663926,Link,Random Probability
+200,$2_1^2$,22,0.03787125,Link,Random Probability
+209,$2_1^2$,23,0.042565614,Link,Random Probability
+218,$2_1^2$,24,0.011372184,Link,Random Probability
+227,$2_1^2$,25,0.050320278,Link,Random Probability
+236,$2_1^2$,26,0.035389446,Link,Random Probability
+245,$2_1^2$,27,0.0744952,Link,Random Probability
+254,$2_1^2$,28,0.019499214,Link,Random Probability
+263,$2_1^2$,29,0.03086936,Link,Random Probability
+272,$2_1^2$,30,0.014902048,Link,Random Probability
+281,$2_1^2$,31,0.043599842,Link,Random Probability
+
+
+3,$2_1^2$,0,0.7,Chain 1,Local Density
+12,$2_1^2$,1,0.92,Chain 1,Local Density
+21,$2_1^2$,2,0.68,Chain 1,Local Density
+30,$2_1^2$,3,0.75,Chain 1,Local Density
+39,$2_1^2$,4,0.57,Chain 1,Local Density
+48,$2_1^2$,5,0.75,Chain 1,Local Density
+57,$2_1^2$,6,0.75,Chain 1,Local Density
+66,$2_1^2$,7,0.83,Chain 1,Local Density
+75,$2_1^2$,8,0.77,Chain 1,Local Density
+84,$2_1^2$,9,0.81,Chain 1,Local Density
+93,$2_1^2$,10,0.88,Chain 1,Local Density
+102,$2_1^2$,11,0.84,Chain 1,Local Density
+111,$2_1^2$,12,0.72,Chain 1,Local Density
+120,$2_1^2$,13,0.83,Chain 1,Local Density
+129,$2_1^2$,14,0.86,Chain 1,Local Density
+138,$2_1^2$,15,0.82,Chain 1,Local Density
+147,$2_1^2$,16,0.75,Chain 1,Local Density
+156,$2_1^2$,17,0.82,Chain 1,Local Density
+165,$2_1^2$,18,0.79,Chain 1,Local Density
+174,$2_1^2$,19,0.63,Chain 1,Local Density
+183,$2_1^2$,20,0.72,Chain 1,Local Density
+192,$2_1^2$,21,0.7,Chain 1,Local Density
+201,$2_1^2$,22,0.79,Chain 1,Local Density
+210,$2_1^2$,23,0.69,Chain 1,Local Density
+219,$2_1^2$,24,0.69,Chain 1,Local Density
+228,$2_1^2$,25,0.62,Chain 1,Local Density
+237,$2_1^2$,26,0.84,Chain 1,Local Density
+246,$2_1^2$,27,0.68,Chain 1,Local Density
+255,$2_1^2$,28,0.72,Chain 1,Local Density
+264,$2_1^2$,29,0.61,Chain 1,Local Density
+273,$2_1^2$,30,0.73,Chain 1,Local Density
+282,$2_1^2$,31,0.66,Chain 1,Local Density
+
+
+4,$2_1^2$,0,0.82,Chain 2,Local Density
+13,$2_1^2$,1,0.87,Chain 2,Local Density
+22,$2_1^2$,2,0.7,Chain 2,Local Density
+31,$2_1^2$,3,0.75,Chain 2,Local Density
+40,$2_1^2$,4,0.77,Chain 2,Local Density
+49,$2_1^2$,5,0.64,Chain 2,Local Density
+58,$2_1^2$,6,0.87,Chain 2,Local Density
+67,$2_1^2$,7,0.92,Chain 2,Local Density
+76,$2_1^2$,8,0.89,Chain 2,Local Density
+85,$2_1^2$,9,0.86,Chain 2,Local Density
+94,$2_1^2$,10,0.87,Chain 2,Local Density
+103,$2_1^2$,11,0.77,Chain 2,Local Density
+112,$2_1^2$,12,0.61,Chain 2,Local Density
+121,$2_1^2$,13,0.91,Chain 2,Local Density
+130,$2_1^2$,14,0.77,Chain 2,Local Density
+139,$2_1^2$,15,0.85,Chain 2,Local Density
+148,$2_1^2$,16,0.77,Chain 2,Local Density
+157,$2_1^2$,17,0.88,Chain 2,Local Density
+166,$2_1^2$,18,0.73,Chain 2,Local Density
+175,$2_1^2$,19,0.66,Chain 2,Local Density
+184,$2_1^2$,20,0.9,Chain 2,Local Density
+193,$2_1^2$,21,0.72,Chain 2,Local Density
+202,$2_1^2$,22,0.77,Chain 2,Local Density
+211,$2_1^2$,23,0.83,Chain 2,Local Density
+220,$2_1^2$,24,0.82,Chain 2,Local Density
+229,$2_1^2$,25,0.69,Chain 2,Local Density
+238,$2_1^2$,26,0.72,Chain 2,Local Density
+247,$2_1^2$,27,0.78,Chain 2,Local Density
+256,$2_1^2$,28,0.73,Chain 2,Local Density
+265,$2_1^2$,29,0.71,Chain 2,Local Density
+274,$2_1^2$,30,0.89,Chain 2,Local Density
+283,$2_1^2$,31,0.69,Chain 2,Local Density
+
+
+5,$2_1^2$,0,0.61,Link,Local Density
+14,$2_1^2$,1,0.8,Link,Local Density
+23,$2_1^2$,2,0.51,Link,Local Density
+32,$2_1^2$,3,0.57,Link,Local Density
+41,$2_1^2$,4,0.51,Link,Local Density
+50,$2_1^2$,5,0.48,Link,Local Density
+59,$2_1^2$,6,0.66,Link,Local Density
+68,$2_1^2$,7,0.78,Link,Local Density
+77,$2_1^2$,8,0.67,Link,Local Density
+86,$2_1^2$,9,0.7,Link,Local Density
+95,$2_1^2$,10,0.78,Link,Local Density
+104,$2_1^2$,11,0.67,Link,Local Density
+113,$2_1^2$,12,0.46,Link,Local Density
+122,$2_1^2$,13,0.77,Link,Local Density
+131,$2_1^2$,14,0.69,Link,Local Density
+140,$2_1^2$,15,0.7,Link,Local Density
+149,$2_1^2$,16,0.59,Link,Local Density
+158,$2_1^2$,17,0.73,Link,Local Density
+167,$2_1^2$,18,0.59,Link,Local Density
+176,$2_1^2$,19,0.42,Link,Local Density
+185,$2_1^2$,20,0.65,Link,Local Density
+194,$2_1^2$,21,0.49,Link,Local Density
+203,$2_1^2$,22,0.63,Link,Local Density
+212,$2_1^2$,23,0.62,Link,Local Density
+221,$2_1^2$,24,0.6,Link,Local Density
+230,$2_1^2$,25,0.47,Link,Local Density
+239,$2_1^2$,26,0.61,Link,Local Density
+248,$2_1^2$,27,0.54,Link,Local Density
+257,$2_1^2$,28,0.55,Link,Local Density
+266,$2_1^2$,29,0.5,Link,Local Density
+275,$2_1^2$,30,0.66,Link,Local Density
+284,$2_1^2$,31,0.52,Link,Local Density
+
+
+6,$2_1^2$,0,0.88,Chain 1,3D Writhe
+15,$2_1^2$,1,0.93,Chain 1,3D Writhe
+24,$2_1^2$,2,0.91,Chain 1,3D Writhe
+33,$2_1^2$,3,0.88,Chain 1,3D Writhe
+42,$2_1^2$,4,0.85,Chain 1,3D Writhe
+51,$2_1^2$,5,0.8,Chain 1,3D Writhe
+60,$2_1^2$,6,0.83,Chain 1,3D Writhe
+69,$2_1^2$,7,0.95,Chain 1,3D Writhe
+78,$2_1^2$,8,0.93,Chain 1,3D Writhe
+87,$2_1^2$,9,0.9,Chain 1,3D Writhe
+96,$2_1^2$,10,0.96,Chain 1,3D Writhe
+105,$2_1^2$,11,0.92,Chain 1,3D Writhe
+114,$2_1^2$,12,0.83,Chain 1,3D Writhe
+123,$2_1^2$,13,0.97,Chain 1,3D Writhe
+132,$2_1^2$,14,0.85,Chain 1,3D Writhe
+141,$2_1^2$,15,0.95,Chain 1,3D Writhe
+150,$2_1^2$,16,0.85,Chain 1,3D Writhe
+159,$2_1^2$,17,0.9,Chain 1,3D Writhe
+168,$2_1^2$,18,0.92,Chain 1,3D Writhe
+177,$2_1^2$,19,0.78,Chain 1,3D Writhe
+186,$2_1^2$,20,0.89,Chain 1,3D Writhe
+195,$2_1^2$,21,0.86,Chain 1,3D Writhe
+204,$2_1^2$,22,0.91,Chain 1,3D Writhe
+213,$2_1^2$,23,0.79,Chain 1,3D Writhe
+222,$2_1^2$,24,0.83,Chain 1,3D Writhe
+231,$2_1^2$,25,0.78,Chain 1,3D Writhe
+240,$2_1^2$,26,0.89,Chain 1,3D Writhe
+249,$2_1^2$,27,0.82,Chain 1,3D Writhe
+258,$2_1^2$,28,0.86,Chain 1,3D Writhe
+267,$2_1^2$,29,0.74,Chain 1,3D Writhe
+276,$2_1^2$,30,0.86,Chain 1,3D Writhe
+285,$2_1^2$,31,0.84,Chain 1,3D Writhe
+
+
+7,$2_1^2$,0,0.9,Chain 2,3D Writhe
+16,$2_1^2$,1,0.97,Chain 2,3D Writhe
+25,$2_1^2$,2,0.92,Chain 2,3D Writhe
+34,$2_1^2$,3,0.86,Chain 2,3D Writhe
+43,$2_1^2$,4,0.91,Chain 2,3D Writhe
+52,$2_1^2$,5,0.86,Chain 2,3D Writhe
+61,$2_1^2$,6,0.92,Chain 2,3D Writhe
+70,$2_1^2$,7,0.99,Chain 2,3D Writhe
+79,$2_1^2$,8,0.99,Chain 2,3D Writhe
+88,$2_1^2$,9,0.89,Chain 2,3D Writhe
+97,$2_1^2$,10,0.9,Chain 2,3D Writhe
+106,$2_1^2$,11,0.89,Chain 2,3D Writhe
+115,$2_1^2$,12,0.73,Chain 2,3D Writhe
+124,$2_1^2$,13,0.97,Chain 2,3D Writhe
+133,$2_1^2$,14,0.93,Chain 2,3D Writhe
+142,$2_1^2$,15,0.89,Chain 2,3D Writhe
+151,$2_1^2$,16,0.89,Chain 2,3D Writhe
+160,$2_1^2$,17,0.92,Chain 2,3D Writhe
+169,$2_1^2$,18,0.82,Chain 2,3D Writhe
+178,$2_1^2$,19,0.85,Chain 2,3D Writhe
+187,$2_1^2$,20,0.94,Chain 2,3D Writhe
+196,$2_1^2$,21,0.84,Chain 2,3D Writhe
+205,$2_1^2$,22,0.82,Chain 2,3D Writhe
+214,$2_1^2$,23,0.84,Chain 2,3D Writhe
+223,$2_1^2$,24,0.95,Chain 2,3D Writhe
+232,$2_1^2$,25,0.83,Chain 2,3D Writhe
+241,$2_1^2$,26,0.88,Chain 2,3D Writhe
+250,$2_1^2$,27,0.92,Chain 2,3D Writhe
+259,$2_1^2$,28,0.87,Chain 2,3D Writhe
+268,$2_1^2$,29,0.84,Chain 2,3D Writhe
+277,$2_1^2$,30,0.97,Chain 2,3D Writhe
+286,$2_1^2$,31,0.84,Chain 2,3D Writhe
+
+
+8,$2_1^2$,0,0.82,Link,3D Writhe
+17,$2_1^2$,1,0.9,Link,3D Writhe
+26,$2_1^2$,2,0.85,Link,3D Writhe
+35,$2_1^2$,3,0.78,Link,3D Writhe
+44,$2_1^2$,4,0.8,Link,3D Writhe
+53,$2_1^2$,5,0.74,Link,3D Writhe
+62,$2_1^2$,6,0.79,Link,3D Writhe
+71,$2_1^2$,7,0.94,Link,3D Writhe
+80,$2_1^2$,8,0.92,Link,3D Writhe
+89,$2_1^2$,9,0.82,Link,3D Writhe
+98,$2_1^2$,10,0.88,Link,3D Writhe
+107,$2_1^2$,11,0.85,Link,3D Writhe
+116,$2_1^2$,12,0.68,Link,3D Writhe
+125,$2_1^2$,13,0.94,Link,3D Writhe
+134,$2_1^2$,14,0.79,Link,3D Writhe
+143,$2_1^2$,15,0.87,Link,3D Writhe
+152,$2_1^2$,16,0.79,Link,3D Writhe
+161,$2_1^2$,17,0.82,Link,3D Writhe
+170,$2_1^2$,18,0.77,Link,3D Writhe
+179,$2_1^2$,19,0.72,Link,3D Writhe
+188,$2_1^2$,20,0.86,Link,3D Writhe
+197,$2_1^2$,21,0.74,Link,3D Writhe
+206,$2_1^2$,22,0.74,Link,3D Writhe
+215,$2_1^2$,23,0.67,Link,3D Writhe
+224,$2_1^2$,24,0.83,Link,3D Writhe
+233,$2_1^2$,25,0.7,Link,3D Writhe
+242,$2_1^2$,26,0.8,Link,3D Writhe
+251,$2_1^2$,27,0.76,Link,3D Writhe
+260,$2_1^2$,28,0.78,Link,3D Writhe
+269,$2_1^2$,29,0.7,Link,3D Writhe
+278,$2_1^2$,30,0.86,Link,3D Writhe
+287,$2_1^2$,31,0.74,Link,3D Writhe
